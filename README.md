@@ -1,4 +1,4 @@
-# COVID-19
+# COVID-19 State-wise Comorbidity and Hospitalization Analysis
 
 🎯 Project Overview
 
